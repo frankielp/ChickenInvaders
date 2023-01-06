@@ -1,8 +1,3 @@
-"""
-The program defines class Game.
-Author: Ho Bui My Duyen
-Time spent (days): 2
-"""
 import pygame
 import math
 import sys

@@ -1,8 +1,3 @@
-"""
-The program defines class Plane.
-Author: Ho Bui My Duyen
-Time spent (day): 1
-"""
 import pygame
 import config
 class Plane:

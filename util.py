@@ -1,8 +1,3 @@
-"""
-The program defines the class Button for UI in the game.
-Author: Ho Bui My Duyen & Le Thi Diem My
-Time spent (hours): 2
-"""
 import pygame
 from pygame import mixer
 import config

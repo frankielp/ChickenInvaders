@@ -1,10 +1,3 @@
-"""
-This program imports pygame to build the game background with screen set-up,
-game components and figures import and 
-other different keys to play the game.
-Author: Ho Bui My Duyen
-Time: 30 minutes
-"""
 import pygame
 # global
 THEME='arcade'

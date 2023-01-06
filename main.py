@@ -1,7 +1,3 @@
-"""The program builds the main menu of the game.
-Author: Ho Bui My Duyen & Le Thi Diem My
-Time spent (day): 1
-"""
 import pygame
 from pygame import mixer
 import config

@@ -4,6 +4,10 @@ Chicken Invaders is a series of shoot 'em up video games inspried by Greek indie
 - Framework: Pygame 
 - Programming Language: Python
 
+<p align="center">
+  <img src="demo.png" alt="drawing" width="400"/>
+</p>
+
 ## Folder Structure ##
 ```
 .

@@ -1,5 +1,5 @@
 # Chicken Invaders
-Chicken Invaders is a series of shoot 'em up video games inspried by Greek indie developer Konstantinos Prouskas. 
+Chicken Invaders is a series of shoot 'em up video games inspired by a Greek indie developer Konstantinos Prouskas. 
 
 - Framework: Pygame 
 - Programming Language: Python
